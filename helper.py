@@ -1,6 +1,3 @@
-
-class Helper:
-
 def greeting(msg):
     print(msg)
 
